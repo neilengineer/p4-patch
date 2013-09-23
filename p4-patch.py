@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-#Neil Zhao(neil.zhao@qti.qualcomm.com), Sep.,2013
+
+
 import os
 import sys 
 import time
